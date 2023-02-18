@@ -1,0 +1,5 @@
+2
+Hozzavalo nev1
+Hozzavalo mert.egys.1
+Hozzavalo nev2
+Hozzavalo mert.egys.2

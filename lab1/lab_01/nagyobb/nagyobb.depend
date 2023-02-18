@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1613135997 source:c:\users\zsomb\onedrive\dokumentumok\prog2\lab1\lab_01\nagyobb\fuggvenyeim.cpp
+	"fuggvenyeim.h"
+
+1613135977 c:\users\zsomb\onedrive\dokumentumok\prog2\lab1\lab_01\nagyobb\fuggvenyeim.h
+
+1613133933 source:c:\users\zsomb\onedrive\dokumentumok\prog2\lab1\lab_01\nagyobb\nagyobb_main.cpp
+	<iostream>
+	"fuggvenyeim.h"
+

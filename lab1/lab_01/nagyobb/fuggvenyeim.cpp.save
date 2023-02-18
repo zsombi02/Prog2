@@ -1,0 +1,22 @@
+// Fájl: fuggvenyeim.cpp
+// Ebben valósítom meg a gyakran használt függvényeket.
+
+#include "fuggvenyeim.h"
+
+// Két int adat felcserélése
+void csere(int& a, int& b) {
+   int tmp =  a;
+   a =  b;
+   b = tmp;
+}
+
+double polinom(double x; double a[], int n)
+{
+    double eredmeny = 0;
+    for(int i =n; i>= 0; i--)
+    {
+        eredmeny = eredmeny*x + a[i];
+    }
+    return eredmeny
+    
+}
