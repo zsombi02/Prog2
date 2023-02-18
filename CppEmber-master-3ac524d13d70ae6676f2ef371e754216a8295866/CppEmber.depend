@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1615841085 source:c:\users\zsomb\onedrive\dokumentumok\prog2\cppember-master-3ac524d13d70ae6676f2ef371e754216a8295866\ember.cpp
+	<cstring>
+	"memtrace.h"
+	"ember.h"
+
+1615841085 c:\users\zsomb\onedrive\dokumentumok\prog2\cppember-master-3ac524d13d70ae6676f2ef371e754216a8295866\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+
+1615841667 c:\users\zsomb\onedrive\dokumentumok\prog2\cppember-master-3ac524d13d70ae6676f2ef371e754216a8295866\ember.h
+
+1615841085 source:c:\users\zsomb\onedrive\dokumentumok\prog2\cppember-master-3ac524d13d70ae6676f2ef371e754216a8295866\embermain.cpp
+	<iostream>
+	<ctime>
+	"ember.h"
+	"hallgato.h"
+	"kutato.h"
+	"gtest_lite.h"
+	"memtrace.h"
+
+1615841085 c:\users\zsomb\onedrive\dokumentumok\prog2\cppember-master-3ac524d13d70ae6676f2ef371e754216a8295866\hallgato.h
+	<iostream>
+	<string>
+	"ember.h"
+
+1615841085 c:\users\zsomb\onedrive\dokumentumok\prog2\cppember-master-3ac524d13d70ae6676f2ef371e754216a8295866\kutato.h
+	"ember.h"
+
+1615841085 c:\users\zsomb\onedrive\dokumentumok\prog2\cppember-master-3ac524d13d70ae6676f2ef371e754216a8295866\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<string>
+	<fstream>
+	"memtrace.h"
+
+1615841085 source:c:\users\zsomb\onedrive\dokumentumok\prog2\cppember-master-3ac524d13d70ae6676f2ef371e754216a8295866\hallgato.cpp
+	<cstring>
+	"ember.h"
+	"hallgato.h"
+
+1615841085 source:c:\users\zsomb\onedrive\dokumentumok\prog2\cppember-master-3ac524d13d70ae6676f2ef371e754216a8295866\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+

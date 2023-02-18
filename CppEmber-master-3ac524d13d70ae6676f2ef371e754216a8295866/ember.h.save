@@ -1,0 +1,9 @@
+#ifndef EMBER_H_INCLUDED
+#define EMBER_H_INCLUDED
+
+class Ember 
+{
+    
+};
+
+#endif // EMBER_H_INCLUDED
